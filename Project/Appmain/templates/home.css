@@ -1,3 +1,4 @@
+
 *{
     margin: 5px 5px 5px 5px;
 }
@@ -22,7 +23,7 @@ body{
    
 }
 .Intro{
-background-image: url('../Images/Bins.jpg');
+background-image: url('../static/images/Bins.jpg');
 background-position: cetre right;
 height: 600px;
 margin-bottom: 30px;
