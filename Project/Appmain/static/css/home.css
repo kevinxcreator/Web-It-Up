@@ -1,6 +1,3 @@
-*{
-    margin: 5px 5px 5px 5px;
-}
 .nav-link {
     position: relative;
     left: 420px;
@@ -31,12 +28,9 @@ body {
    
 }
 .Intro{
-background-image: url('../Images/Bins.jpg');
-background-position: cetre right;
-height: 600px;
+padding: 0px 20px 0px 20px;
 margin-bottom: 30px;
-background-repeat: inherit;
-
+background-repeat: no-repeat;
 }
 .Intro h2{
 color:black ;
