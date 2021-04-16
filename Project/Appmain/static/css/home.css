@@ -1,3 +1,6 @@
+*{
+    margin: 5px 5px 5px 5px;
+}
 .nav-link {
     position: relative;
     left: 420px;
@@ -6,11 +9,9 @@
 }
 .navbar {
     background-color: #8bd7fc;
-*{
-    margin: 5px 5px 5px 5px;
 }
 
-body{
+body {
     background-color:skyblue ;
     color: #555;
     font-family: Arial, Helvetica, sans-serif;
@@ -35,7 +36,6 @@ background-position: cetre right;
 height: 600px;
 margin-bottom: 30px;
 background-repeat: inherit;
-text: size adjust 50px; ;
 
 }
 .Intro h2{
