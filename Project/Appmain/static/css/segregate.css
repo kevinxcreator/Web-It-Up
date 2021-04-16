@@ -1,3 +1,9 @@
+body {
+    background-color: #85ffa5;
+}
+.container .h1{
+    color: brown;
+}
 .nav-link {
     position: relative;
     left: 420px;
