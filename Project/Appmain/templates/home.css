@@ -1,11 +1,4 @@
-.nav-link {
-    position: relative;
-    left: 420px;
-    padding: 20px 50px 20px 50px;
-    font-size: 20px;
-}
-.navbar {
-    background-color: #8bd7fc;
+
 *{
     margin: 5px 5px 5px 5px;
 }
@@ -30,7 +23,7 @@ body{
    
 }
 .Intro{
-background-image: url('../Images/Bins.jpg');
+background-image: url('../static/images/Bins.jpg');
 background-position: cetre right;
 height: 600px;
 margin-bottom: 30px;
