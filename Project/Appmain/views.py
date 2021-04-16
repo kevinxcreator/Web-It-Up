@@ -4,8 +4,6 @@ from pprint import pprint
 from pymongo import MongoClient
 
 # Create your views here.
-
-
 def home(request):
     return render(request, "home.html")
 
