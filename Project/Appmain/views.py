@@ -1,5 +1,5 @@
 from django.shortcuts import render, HttpResponse, redirect
-#from .keys import *
+from .keys import *
 from pprint import pprint
 from pymongo import MongoClient
 
@@ -15,7 +15,6 @@ def bin(request):
     # using the mongoDB
     if request.method == "POST":
         items = request.POST.get('waste')
-        link = "mongodb+srv://anish:anish2606@cluster0.2kyic.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
         cluster = MongoClient(link)
         db = cluster["waste"]
         collection = db["waste"]
