@@ -13,5 +13,5 @@ It was an ordeal task for us to find data regarding waste segregation on the int
 We were thinking of helping the users further, to a point that they understand the right disposal methods along with the classification of waste(s). Achieving that will educate the people a lot, enough to take us a step closer to the goal of achieving a "clean planet".
 
 ## Links
-Link To Our Website - [https://new-smart-bins.herokuapp.com/](https://new-smart-bins.herokuapp.com/)
+Link To Our Website - [https://new-smart-bins.herokuapp.com/](https://new-smart-bins.herokuapp.com/)\
 Link To The GitHub Repository - [https://github.com/anishdhandore/Smart-Bins](https://github.com/anishdhandore/Smart-Bins)
