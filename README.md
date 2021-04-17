@@ -1,5 +1,5 @@
 # Smart Bins
-![alt text](https://github.com/anishdhandore/Smart-Bins/blob/main/github.png?raw=true)
+![alt text](https://github.com/anishdhandore/Smart-Bins/blob/Project/Appmain/static/images/github.png?raw=true)
 
 ## Inspiration
 Taking a look at the current world scenario, we noticed that it would be really clever to educate organizations or groups of people regarding the importance of Waste Segregation. If we continue with our current disposal methods (incorrect practices), then soon will we find our planet in an extremely deteriorated state; in the present decade. 
