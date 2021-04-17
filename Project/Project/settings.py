@@ -23,9 +23,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'bw2m693gatwvu^x!ot63mu^fxb6ib__3a&0^2n2c@ar#w*z6bq'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['new-smart-bins.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
