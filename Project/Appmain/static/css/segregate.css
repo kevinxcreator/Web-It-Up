@@ -1,0 +1,15 @@
+body {
+    background-color: #85ffa5;
+}
+.container .h1{
+    color: brown;
+}
+.nav-link {
+    position: relative;
+    left: 420px;
+    padding: 20px 50px 20px 50px;
+    font-size: 20px;
+}
+.navbar {
+    background-color: #8bd7fc;
+}

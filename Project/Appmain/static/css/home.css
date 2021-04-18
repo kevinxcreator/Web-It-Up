@@ -1,34 +1,32 @@
 *{
-    margin: 5px 5px 5px 5px;
+    margin: 0px;
+    padding: 0px;
+}
+.nav-link {
+    position: relative;
+    left: 420px;
+    padding: 20px 50px 20px 50px;
+    font-size: 20px;
+}
+.navbar {
+    background-color: #8bd7fc;
 }
 
-body{
-    background-color:skyblue ;
+body {
+    background-color:#c4d7f5 ;
     color: #555;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    line-height: 1.6em;
 }
 .container{
-
-    width: auto;
-    margin: auto;
-    overflow: hidden;
-    background-color:#9acd32 ;
+    background-color:#c4d7f5  ;
     color: black;
 }
-#main-header{
-    background-color:#9acd32 ;
-   
-}
-.Intro{
-background-image: url('../Images/Bins.jpg');
-background-position: cetre right;
-height: 600px;
-margin-bottom: 30px;
-background-repeat: inherit;
-text: size adjust 50px; ;
-
+#header{
+    background-color:#c4d7f5 ;
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
 }
 .Intro h2{
 color:black ;
@@ -38,6 +36,27 @@ padding: auto;
     color:black;
 }
 #Punchline{
-    color:black;
+    color:#afbacc;
+    margin-top: 20px;
+    background-color: #464b54;
+    padding: 10px 0px 10px 0px;
 
+}
+img{
+    width: 350px;
+    height: 300px;
+}
+.row{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.Int2{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.Classification{
+    background-color: #464b54;
+    margin: 0px;
+    color:#afbacc;
 }

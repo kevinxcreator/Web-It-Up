@@ -1,0 +1,25 @@
+body {
+    background-color: #eecfff;
+}
+.container .row{
+    background-color: grey;
+    text-align: center;
+}
+table{
+    padding-left: 100px;
+}
+.container {
+    margin-top: 50px;
+}
+.nav-link {
+    position: relative;
+    left: 420px;
+    padding: 20px 50px 20px 50px;
+    font-size: 20px;
+}
+.navbar {
+    background-color: #8bd7fc;
+}
+#notFound {
+    margin-top: 10px;
+}
